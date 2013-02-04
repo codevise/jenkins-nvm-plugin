@@ -1,0 +1,26 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    jenkins-plugin-runtime (0.2.3)
+      json
+      slop (~> 3.0.2)
+    jenkins-war (1.475)
+    jpi (0.3.8)
+      bundler
+      jenkins-plugin-runtime (~> 0.2.3)
+      jenkins-war (> 1.427)
+      rubyzip
+      thor
+    json (1.5.4)
+    json (1.5.4-java)
+    rubyzip (0.9.9)
+    slop (3.0.4)
+    thor (0.16.0)
+
+PLATFORMS
+  java
+  ruby
+
+DEPENDENCIES
+  jenkins-plugin-runtime (~> 0.2.2)
+  jpi (~> 0.3.7)
