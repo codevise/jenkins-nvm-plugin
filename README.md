@@ -14,7 +14,7 @@ A Jenkins Plugin to run builds in an [nvm](https://github.com/creationix/nvm) ma
 
 Heavily inspired by the [Jenkins rvm plugin](https://github.com/jenkinsci/rvm-plugin).
 
-### License
+## License
 
 Please fork and improve.
 
