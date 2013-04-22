@@ -4,6 +4,10 @@
 
 A Jenkins Plugin to run builds in an [nvm](https://github.com/creationix/nvm) managed environment.
 
+## Dependencies
+
+Requires the `ruby-runtime` plugin to be installed.
+
 ## Features
 
 - Installs `nvm.sh`
